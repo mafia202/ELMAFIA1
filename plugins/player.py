@@ -374,7 +374,7 @@ async def play(_, message: Message):
         position = await queues.put(chat_id, file=file_path)
         await message.reply_photo(
             photo="final.png",
-            caption="** ابشر يا طيب راح اشغلها لك بعد الاغنيه الشغاله ...**".format(position),
+            caption="- **ت مالاضافة الى قائمة التشغيل»** `#{pos}`\n\n**🏷 العنوان:** [{songname}]({url})\n**⏱ المدة:** `{duration}`\n🎧 **الطب الى:** {from_user}".format(position),
             reply_markup=keyboard,
         )
     else:
@@ -391,7 +391,7 @@ async def play(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="**💥 ابشر بعزك تم التشغيل ياغالي تدلل ...**".format(),
+            caption="🏷 **العنوان:** [{songname}]({url})\n**⏱ المدة:** `{duration}`\n💡 **الحالة:** شغالة الان\n🎧 **الطب الى:** {from_user}".format(),
            )
 
     os.remove("final.png")
