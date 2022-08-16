@@ -328,7 +328,7 @@ async def play(_, message: Message):
 
         except Exception as e:
             await lel.edit(
-                "** اكتب الاسم صح ياورع...**"
+                "**❶أكَتُــبِ ألأسُمہ صَـحّ أفِِّتكَ...**"
             )
             print(str(e))
             return
@@ -374,7 +374,7 @@ async def play(_, message: Message):
         position = await queues.put(chat_id, file=file_path)
         await message.reply_photo(
             photo="final.png",
-            caption="- **ت مالاضافة الى قائمة التشغيل»** `#{pos}`\n\n**🏷 العنوان:** [{songname}]({url})\n**⏱ المدة:** `{duration}`\n🎧 **الطب الى:** {from_user}".format(position),
+            caption="** ☠آكَتُـــــــًـبّ تُــخــطي لَ تُــشــغــــيــلَهِآ آحًبّ  🐤ᎬᏞᎡᎯᏚᎯᎷ ...**".format(position),
             reply_markup=keyboard,
         )
     else:
@@ -391,7 +391,7 @@ async def play(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="🏷 **العنوان:** [{songname}]({url})\n**⏱ المدة:** `{duration}`\n💡 **الحالة:** شغالة الان\n🎧 **الطب الى:** {from_user}".format(),
+            caption="ِِ** 🐊ِِتًمہ ألـِِتًڜغًيّــّل مہنہ سُوُرسُ ألـرسُأمہ آحًبّ ...**".format(),
            )
 
     os.remove("final.png")
