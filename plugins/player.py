@@ -142,7 +142,7 @@ async def play(_, message: Message):
                     invitelink = await _.export_chat_invite_link(chid)
                 except:
                     await lel.edit(
-                        "**💥 A༙T༙ F༙I༙R༙S༙T༙ 🥀 M༙a༙k༙e༙ M༙E༙ A༙d༙m༙i༙n༙ 😗 ...**")
+                        "**💥 🅂🄾🅁🅂 🄴🄻🅁🄰🅂🄰🄼 ...**")
                     return
 
                 try:
@@ -374,7 +374,7 @@ async def play(_, message: Message):
         position = await queues.put(chat_id, file=file_path)
         await message.reply_photo(
             photo="final.png",
-            caption="** ☠آكَتُـــــــًـبّ تُــخــطي لَ تُــشــغــــيــلَهِآ آحًبّ  🐤ᎬᏞᎡᎯᏚᎯᎷ ...**".format(position),
+            caption="**  🏆🅂🄾🅁🅂 🄴🄻🅁🄰🅂🄰🄼🏆 ...**".format(position),
             reply_markup=keyboard,
         )
     else:
@@ -391,7 +391,7 @@ async def play(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="ِِ** 🐊ِِتًمہ ألـِِتًڜغًيّــّل مہنہ سُوُرسُ ألـرسُأمہ آحًبّ ...**".format(),
+            caption="ِِ** 🐊ِِ🅂🄾🅁🅂🄴🄻🅁🄰🅂🄰🄼 وط ...**".format(),
            )
 
     os.remove("final.png")
