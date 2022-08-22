@@ -1,3 +1,10 @@
-سورس الميوزك للمطور@QABNADLIB
-كسختك عراس ايري ازا تخمط ملف واحد
-وماني مسامح اختك بل مصاري لاني نجتها 😹😹 
+- 👋 Hi, I’m @MahmodSamyy
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+MahmodSamyy/MahmodSamyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
