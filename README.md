@@ -1,4 +1,4 @@
-<h1 align="center"><b>𝗦𝗨𝗢𝗥𝗖𝗘 ELRASAM᷂᷂🦖</b></h1>
+<h1 align="center"><b>𝗦𝗨𝗢𝗥𝗖𝗘 ELMAFIA🦖</b></h1>
 
 <p align="center">
     <br><b>يدعم تشغيل الموسيقي والفديو داخل المحادثات الصوتية</b><br>
@@ -9,7 +9,7 @@
 ## 🧪الحصول علي جلسة البيوجرام:
 [![جلسة بيوجرام]<a href="https://t.me/ELRASAMbot"><img src="https://img.shields.io/badge/Dev%20ELRASAM-blue.svg?style=for-the-badge&logo=استخراج جلسه"></a> <a href="https://t.me/ELRASAMbot"><img src="https://img.shields.io/badge/استخراج جلسه-blue.svg?style=for-the-badge&logo=جلسه بيروجرام"></a> <a href="https://t.me/ELRASAMbot"><img src="https://img.shields.io/badge/جلسه بيروجرام -blue.svg?style=for-the-badge&logo=ELRASAM"></a>
 
-## 𝗦𝗨𝗢𝗥𝗖𝗘 ELRASAM 
+## 𝗦𝗨𝗢𝗥𝗖𝗘 ELMAFIA 
 <p align="center">
   <img src="https://telegra.ph/file/b144db94dc0db0fd86526.jpg">
 </p>
@@ -61,9 +61,9 @@
 
 
 ## قناة التحديثات والدعم¦🐰
-<a href="https://t.me/E_L_R_A_S_A_M"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/ELRASRM"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="">https://t.me/soraselmafia<img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/ELRASRM"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 
 مطــــــــور السورس ¦🦦
-<a href="https://t.me/Mahmod777777"><img src="https://img.shields.io/badge/Dev%20ELRASAM-blue.svg?style=for-the-badge&logo=ELRASAM"></a> <a href="https://t.me/E_L_R_A_S_A_M"><img src="https://img.shields.io/badge/يـــــوزرا آلَرًسًــــــــآمِ-blue.svg?style=for-the-badge&logo=ELRASAM"></a> <a href="https://t.me/E_R_S_A_M1"><img src="https://img.shields.io/badge/ELRASAM2-blue.svg?style=for-the-badge&logo=ELRASAM"></a>
+<a href="https://t.me/AMIRMAFIA11"><img src="https://img.shields.io/badge/Dev%20ELRASAM-blue.svg?style=for-the-badge&logo=ELRASAM"></a> <a href="https://t.me/E_L_R_A_S_A_M"><img src="https://img.shields.io/badge/يـــــوزرا آلَرًسًــــــــآمِ-blue.svg?style=for-the-badge&logo=ELRASAM"></a> <a href="https://t.me/E_R_S_A_M1"><img src="https://img.shields.io/badge/ELRASAM2-blue.svg?style=for-the-badge&logo=ELRASAM"></a>
