@@ -66,4 +66,4 @@
 
 
 مطــــــــور السورس ¦🦦
-<a href="https://t.me/AMIRMAFIA11"><img src="https://img.shields.io/badge/Dev%20ELRASAM-blue.svg?style=for-the-badge&logo=ELRASAM"></a> <a href="https://t.me/E_L_R_A_S_A_M"><img src="https://img.shields.io/badge/يـــــوزرا آلَرًسًــــــــآمِ-blue.svg?style=for-the-badge&logo=ELRASAM"></a> <a href="https://t.me/E_R_S_A_M1"><img src="https://img.shields.io/badge/ELRASAM2-blue.svg?style=for-the-badge&logo=ELRASAM"></a>
+<a href="https://t.me/AMIRMAFIA11"><img src="https://img.shields.io/badge/Dev%20ELRASAM-blue.svg?style=for-the-badge&logo=ELRASAM"></a> <a href="https://t.me/AMIRMAFIA11"><img src="https://img.shields.io/badge-يـــــوزرا آلَـــمـــافــيـــا-blue.svg?style=for-the-badge&logo=ELRASAM"></a> <a href="https://t.me/AMIRMAFIA11"><img src="https://img.shields.io/badge/ELMAFIA2-blue.svg?style=for-the-badge&logo=ELMAFIA"></a>
